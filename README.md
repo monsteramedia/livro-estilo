@@ -1,7 +1,7 @@
 # Livro de Estilo — Monstera Books
 
-[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmonsteramedia%2Flivro-estilo%2Freleases&query=%24%5B%3A1%5D.name&label=vers%C3%A3o%20atual)](#)
-<a href="https://github.com/monsteramedia/livro-estilo/releases/download/v1.0.0/Livro_de_Estilo_Monstera_Books_v1.0.0.pdf"><img alt="Download PDF" src="https://img.shields.io/badge/PDF-Download-92ffbc"></a>
+[![Versão atual](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmonsteramedia%2Flivro-estilo%2Freleases&query=%24%5B%3A1%5D.name&label=vers%C3%A3o%20atual)](#)
+<a href="https://github.com/monsteramedia/livro-estilo/releases/download/v1.1.0/Livro_de_Estilo_Monstera_Books_v1.1.0.pdf"><img alt="Download PDF" src="https://img.shields.io/badge/PDF-Download-92ffbc"></a>
 
 ## Índice
 
@@ -24,8 +24,8 @@ Se tiver sugestões de palavras que ainda não estão no glossário, envie-as pa
 
 Outros documentos sobre Bitcoin, que poderá consultar caso queira saber mais sobre o tema:
 
-* [Diploma Bitcoin](https://github.com/freemadeira/diploma-bitcoin/releases/download/v2025.1.0/Diploma_Bitcoin_pt-PT_2025.1.0.pdf) — Manual desenvolvido pelo Mi Primer Bitcoin, para iniciantes, em Português
-* [B de Bitcoin](https://lookingglasseducation.com/pt/courses/free-foundation-course/) — Curso e manual elaborados pela Looking Glass, em português
+- [Diploma Bitcoin](https://github.com/freemadeira/diploma-bitcoin/releases/download/v2025.1.0/Diploma_Bitcoin_pt-PT_2025.1.0.pdf) — Manual desenvolvido pelo Mi Primer Bitcoin, para iniciantes, em Português
+- [B de Bitcoin](https://lookingglasseducation.com/pt/courses/free-foundation-course/) — Curso e manual elaborados pela Looking Glass, em português
 
 ## 2. Ortografia, gramática e tom
 
@@ -64,12 +64,12 @@ ou 100 000 000.
 
 **Alerta:** o que nos EUA se chama «billion» (1 000 000 000), em português é «mil milhões». O «trillion» americano (1 000 000 000 000) é o «bilião» em português. No «quadrillion», o equivalente português é «mil biliões», e assim por diante:
 
-| EUA | Portugal |
-| --- | --- |
-| 1 billion | Mil milhões |
-| 1 trillion | Um bilião |
+| EUA           | Portugal    |
+| ------------- | ----------- |
+| 1 billion     | Mil milhões |
+| 1 trillion    | Um bilião   |
 | 1 quadrillion | Mil biliões |
-| 1 quintillion | Um trilião |
+| 1 quintillion | Um trilião  |
 
 Separamos as **casas decimais com vírgula**: 1000,02; 10 000,50
 
@@ -97,18 +97,24 @@ Escrevemos estes códigos:
 - **com um espaço** entre o valor e o código: 100 EUR (não 100EUR)
 - valores grandes **sem preposição**: 7,8 milhões EUR (não 7,8 milhões de EUR).
 
+Escrevemos:
+
+- Bitcoin, com maiúscula, quando nos referimos à rede
+- bitcoin, com minúscula, quando nos referimos à moeda
+- o bitcoin (no masculino) em ambos os casos.
+
 ## 5. Itálicos
 
 Usamos itálico para:
 
 - títulos completos de obras literárias e de produções artísticas (filmes, quadros,
-músicas)
+  músicas)
 - nomes de navios e aeronaves
 - marcas comerciais (mas não empresas)
 - nomes de animais ou objetos personificados
 - nomes científicos de animais e plantas
 - palavras e expressões estrangeiras (exceto se estiverem amplamente em
-utilização, como internet, online, email)
+  utilização, como internet, online, email)
 - alcunhas e cognomes: Alexandre, o Grande.
 
 ## 6. Aspas
@@ -148,11 +154,11 @@ Exemplos de referências bibliográficas:
 
 - **Livro**: Apelido, A. A. (Ano). _Título do livro em itálico_. Editora.
 - **Artigo em revista científica**: Apelido, A. A., & Apelido, B. B. (Ano). Título do
-artigo. _Nome da Revista em Itálico_, volume (número), páginas. DOI ou URL
+  artigo. _Nome da Revista em Itálico_, volume (número), páginas. DOI ou URL
 - **Capítulo de livro**: Apelido, A. A. (Ano). Título do capítulo. Em A. Editor & B.
-Editor (Eds.), _Título do livro em itálico_ (pp. x-y). Editora.
+  Editor (Eds.), _Título do livro em itálico_ (pp. x-y). Editora.
 - **Recursos online**: Apelido, A. A. (Ano, Dia Mês). Título do documento. Nome
-do site. URL
+  do site. URL
 
 Exemplos de citações no texto:
 
@@ -168,10 +174,10 @@ Para **citações com mais de 40 palavras**, formatar como citação no Word.
 - Entregar **um só documento** com o texto completo
 - **Não dar espaços nem tab** no início de um parágrafo
 - **Formatar os títulos e subtítulos** pela hierarquia do original (Título 1, Título 2,
-Título 3)
+  Título 3)
 - Inserir **quebra de página no final de cada capítulo** ou parte
 - **Traduzir textos de imagens ou gráficos junto ao local** onde aparecem, com
-indicações que permitam perceber (por exemplo: título do gráfico: Título; eixo vertical: Percentagem do PIB; eixo horizontal: Anos)
+  indicações que permitam perceber (por exemplo: título do gráfico: Título; eixo vertical: Percentagem do PIB; eixo horizontal: Anos)
 - **Respeitar a fluidez da língua portuguesa** e evitar construções frásicas demasiado coladas ao original.
 
 Aceitamos **notas de tradutor apenas para**:
@@ -188,12 +194,12 @@ Além de toda a revisão linguística, ortográfica e gramatical, devem prestar 
 - a construção frásica soa natural em português e não há repetições de palavras ou expressões que afetem a leitura
 - as notas de rodapé/finais estão bem numeradas e não há notas em falta
 - o índice não tem erros nas páginas que indica e se os títulos são consistentes
-entre índice e corpo do texto
+  entre índice e corpo do texto
 - a numeração dos capítulos segue uma lógica (e não há erros como Cap. 1 e
-Capítulo 2; ou Cap. 1 e Cap. II)
+  Capítulo 2; ou Cap. 1 e Cap. II)
 - as referências bibliográficas seguem a formatação APA
 - as translineações estão bem feitas e não há várias linhas seguidas terminadas
-com translineação
+  com translineação
 - não há espaços entre palavras e pontuação
 - não há palavras separadas por dois ou mais espaços.
 
@@ -201,7 +207,7 @@ com translineação
 
 - As **reticências devem ser um único símbolo** (…) e não três pontos separados
 - Escrevemos **os séculos em versaletes** quando usamos numeração romana:
-século xx (e não século XX).
+  século xx (e não século XX).
 
 ## Sugestões
 
