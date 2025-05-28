@@ -1,7 +1,7 @@
 # Livro de Estilo — Monstera Books
 
 [![Versão atual](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmonsteramedia%2Flivro-estilo%2Freleases&query=%24%5B%3A1%5D.name&label=vers%C3%A3o%20atual)](#)
-<a href="https://github.com/monsteramedia/livro-estilo/releases/download/v1.1.0/Livro_de_Estilo_Monstera_Books_v1.1.0.pdf"><img alt="Download PDF" src="https://img.shields.io/badge/PDF-Download-92ffbc"></a>
+<a href="https://github.com/monsteramedia/livro-estilo/releases/download/v1.2.0/Livro_de_Estilo_Monstera_Books_v1.2.0.pdf"><img alt="Download PDF" src="https://img.shields.io/badge/PDF-Download-92ffbc"></a>
 
 ## Índice
 
@@ -49,11 +49,13 @@ Escrevemos **números até dez por extenso**: três, cinco, dez.
 
 Usamos **algarismos a partir de 11**: 12, 15, 20.
 
+As **unidades de tempo seguem a mesma regra**: três anos, 14 dias.
+
 Usamos **sempre algarismos** para:
 
 - **Horas**: 7 horas
 - **Idades**: 6 anos
-- **Percentagens**: 5 %
+- **Percentagens**: 5 % (e deixamos um espaço entre o número e o símbolo %)
 - **Valores monetários**: 100 EUR, 5600 USD
 
 Para **números grandes, separamos os milhares com espaço, em números com
@@ -167,12 +169,17 @@ Exemplos de citações no texto:
 - **Três ou mais autores**: (Silva et al., 2022)
 - **Citação direta**: (Silva, 2022, p. 45)
 
+**Na Bibliografia**, os **títulos** de artigos, capítulos e documentos ficam **em redondo** (sem itálico) e **sem aspas**.
+
+**No corpo do texto**, os **títulos** de artigos, capítulos e documentos **ficam entre aspas**.
+
 Para **citações com mais de 40 palavras**, formatar como citação no Word.
 
 ## 9. Instruções para quem traduz
 
 - Entregar **um só documento** com o texto completo
 - **Não dar espaços nem tab** no início de um parágrafo
+- **Não usar hifenização**
 - **Formatar os títulos e subtítulos** pela hierarquia do original (Título 1, Título 2,
   Título 3)
 - Inserir **quebra de página no final de cada capítulo** ou parte
@@ -189,15 +196,24 @@ As **notas de tradutores devem aparecer no corpo do texto**, entre parêntesis r
 
 ## 10. Instruções para quem revê
 
-Além de toda a revisão linguística, ortográfica e gramatical, devem prestar atenção especial e confirmar se:
+Na revisão em Word, **usar sempre o registo de alterações / track changes**. Em Google Docs, **modo Sugestão / Suggesting**.
+
+Além de toda a **revisão linguística, ortográfica e gramatical**, devem prestar **atenção especial** e confirmar o seguinte:
+
+Na revisão em Word, se:
 
 - a construção frásica soa natural em português e não há repetições de palavras ou expressões que afetem a leitura
+- não há espaços entre palavras e pontuação
+- não há palavras separadas por dois ou mais espaços
+- as referências bibliográficas seguem a formatação APA.
+
+Na revisão do livro já paginado, se:
+
 - as notas de rodapé/finais estão bem numeradas e não há notas em falta
 - o índice não tem erros nas páginas que indica e se os títulos são consistentes
   entre índice e corpo do texto
 - a numeração dos capítulos segue uma lógica (e não há erros como Cap. 1 e
   Capítulo 2; ou Cap. 1 e Cap. II)
-- as referências bibliográficas seguem a formatação APA
 - as translineações estão bem feitas e não há várias linhas seguidas terminadas
   com translineação
 - não há espaços entre palavras e pontuação
