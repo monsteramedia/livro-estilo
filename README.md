@@ -196,7 +196,7 @@ As **notas de tradutores devem aparecer no corpo do texto**, entre parêntesis r
 
 ## 10. Instruções para quem revê
 
-Na revisão em Word, **usar sempre o registo de alterações / track changes**.
+Na revisão em Word, **usar sempre o registo de alterações / track changes**. Em Google Docs, **modo Sugestão / Suggesting**.
 
 Além de toda a **revisão linguística, ortográfica e gramatical**, devem prestar **atenção especial** e confirmar o seguinte:
 
