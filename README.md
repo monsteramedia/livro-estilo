@@ -186,7 +186,7 @@ Para **citações com mais de 40 palavras**, formatar como citação no Word.
 - **Traduzir textos de imagens ou gráficos junto ao local** onde aparecem, com
   indicações que permitam perceber (por exemplo: título do gráfico: Título; eixo vertical: Percentagem do PIB; eixo horizontal: Anos)
 - **Respeitar a fluidez da língua portuguesa** e evitar construções frásicas demasiado coladas ao original
-- Usar número elevado (ex: palavra¹) no corpo do texto e formato normal (assim: 1. Texto da nota) na listagem das notas no final do livro.
+- Usar **número elevado** (ex: palavra¹) no corpo do texto e **formato normal** (assim: 1. Texto da nota) na listagem das notas no final do livro.
 
 Aceitamos **notas de tradutor apenas para**:
 
@@ -211,7 +211,7 @@ Na revisão em Word, se:
 Na revisão do livro já paginado, se:
 
 - as notas de rodapé/finais estão bem numeradas e não há notas em falta
-- as notas seguem o formato correto: número elevado (palavra¹) no corpo do texto e formato normal (1. Texto da nota) na listagem das notas
+- as notas seguem o formato correto: **número elevado** (palavra¹) no corpo do texto e **formato normal** (1. Texto da nota) na listagem das notas
 - o índice não tem erros nas páginas que indica e se os títulos são consistentes
   entre índice e corpo do texto
 - a numeração dos capítulos segue uma lógica (e não há erros como Cap. 1 e
