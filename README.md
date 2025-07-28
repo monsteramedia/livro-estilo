@@ -211,6 +211,7 @@ Na revisão em Word, se:
 Na revisão do livro já paginado, se:
 
 - as notas de rodapé/finais estão bem numeradas e não há notas em falta
+- as notas seguem o formato correto (número elevado no corpo do texto e formato normal na listagem das notas)
 - o índice não tem erros nas páginas que indica e se os títulos são consistentes
   entre índice e corpo do texto
 - a numeração dos capítulos segue uma lógica (e não há erros como Cap. 1 e
