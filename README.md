@@ -185,7 +185,8 @@ Para **citações com mais de 40 palavras**, formatar como citação no Word.
 - Inserir **quebra de página no final de cada capítulo** ou parte
 - **Traduzir textos de imagens ou gráficos junto ao local** onde aparecem, com
   indicações que permitam perceber (por exemplo: título do gráfico: Título; eixo vertical: Percentagem do PIB; eixo horizontal: Anos)
-- **Respeitar a fluidez da língua portuguesa** e evitar construções frásicas demasiado coladas ao original.
+- **Respeitar a fluidez da língua portuguesa** e evitar construções frásicas demasiado coladas ao original
+- Usar número elevado (ex: palavra¹) no corpo do texto e formato normal (assim: 1. Texto da nota) na listagem das notas no final do livro.
 
 Aceitamos **notas de tradutor apenas para**:
 
