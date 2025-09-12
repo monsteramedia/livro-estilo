@@ -210,7 +210,7 @@ Na revisão em Word, se:
 
 Na revisão do livro já paginado, se:
 
-- as notas de rodapé/finais estão bem numeradas e não há notas em falta
+- as notas de rodapé estão numeradas sequencialmente sem omissões, aparecendo no rodapé da página onde se encontra o texto correspondente que a referencia.
 - as notas seguem o formato correto: **número elevado** (palavra¹) no corpo do texto e **formato normal** (1. Texto da nota) na listagem das notas
 - o índice não tem erros nas páginas que indica e se os títulos são consistentes
   entre índice e corpo do texto
