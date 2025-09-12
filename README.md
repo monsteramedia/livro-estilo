@@ -1,7 +1,7 @@
 # Livro de Estilo — Monstera Books
 
 [![Versão atual](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmonsteramedia%2Flivro-estilo%2Freleases&query=%24%5B%3A1%5D.name&label=vers%C3%A3o%20atual)](#)
-<a href="https://github.com/monsteramedia/livro-estilo/releases/download/v1.2.0/Livro_de_Estilo_Monstera_Books_v1.2.0.pdf"><img alt="Download PDF" src="https://img.shields.io/badge/PDF-Download-92ffbc"></a>
+<a href="https://github.com/monsteramedia/livro-estilo/releases/download/v1.3.0/Livro_de_Estilo_Monstera_Books_v1.3.0.pdf"><img alt="Download PDF" src="https://img.shields.io/badge/PDF-Download-92ffbc"></a>
 
 ## Índice
 
