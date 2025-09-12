@@ -223,9 +223,11 @@ Na revisão do livro já paginado, se:
 
 ## 11. Instruções para quem pagina
 
+- Iniciamos o índice, prefácio e notas do autor (todo o conteúdo que não seja capítulo) em página ímpar (página direita), seguindo a mesma regra dos capítulos
+- Colocamos as notas de rodapé na página onde se encontra o texto correspondente que as referencia
 - As **reticências devem ser um único símbolo** (…) e não três pontos separados
-- Escrevemos **os séculos em versaletes** quando usamos numeração romana:
-  século xx (e não século XX).
+- Escrevemos **os séculos em versaletes** quando usamos numeração romana: século xx (e não século XX)
+- Incluímos um poema de Álvaro de Campos em todas as edições, que aparece na última página ímpar (página direita) do livro; páginas em branco adicionais exigidas pelo processo de impressão devem ser colocadas antes da página do poema.
 
 ## Sugestões
 
